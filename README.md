@@ -1,7 +1,7 @@
 # Lab 4 for Computer Architecture (ECE09243)
 <h2>RISC-V arithmetic logic unit (ALU) in Verilog</h2> 
 
-Written by Gavin Trutzenbach, Jessalyn Ablett, Manas Gupta.
+Written by Gavin Trutzenbach, Jesselyn Ablett, Manas Gupta.
 
 Arithmetic logic unit (Lab4_ALU.v)
 
